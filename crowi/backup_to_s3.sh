@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash -eu
 
 DUMP_DIR=backup
 CURRENT_TIMESTAMP=`date '+%Y%m%d_%H%M%S'`
